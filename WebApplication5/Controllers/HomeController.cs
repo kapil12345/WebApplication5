@@ -15,7 +15,7 @@ namespace WebApplication5.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "test.";
+            ViewData["Message"] = "test1.";
 
             return View();
         }
